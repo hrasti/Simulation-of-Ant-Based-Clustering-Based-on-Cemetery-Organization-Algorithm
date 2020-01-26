@@ -1,0 +1,16 @@
+% Simulation of Ant-Based Clustering Algorithm based on cemetery organization
+% Lumer&Faeita Algorithm
+% Last update : June 05, 2011
+% (C) Heidar Rastiveis
+% Department of Geomatics Eng.
+% School of Engineering
+% University of Tehran
+% e-mail: h.rasti@gmail.com
+
+%{
+First, generate a sample data and after setting the parameters press the "RUN" botton.
+Note:
+    1. After each stop, press any key to continue. It's better to not press the space button.
+    2. This is just a simulation code. However, it is easy to change the code for your application.
+    3. I would be thankful if you let me know about your comments and ideas
+%}
